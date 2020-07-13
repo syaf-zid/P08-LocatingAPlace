@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">P08-LocatingAPlace</string>
+    <string name="company_name">ABC Pte Ltd</string>
+    <string name="info">We now have 3 branches.\nLook below for the address and info.</string>
 </resources>
